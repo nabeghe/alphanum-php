@@ -1,0 +1,28 @@
+{
+  "name": "nabeghe/alphanum",
+  "description": "Converting decimal numbers to alphanums, which include uppercase & lowercase letters as well as the underscore character, & vice versa.",
+  "keywords": [
+    "alphanum", "alphabetic", "string", "numeric", "numbers", "decimal", "sexagesimal", "hexadecimal",
+    "library", "helper", "support"
+  ],
+  "type": "library",
+  "version": "0.1.0",
+  "homepage": "https://github.com/nabeghe/alphanum-php",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "Nabeghe\\Alphanum\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Hadi Akbarzadeh",
+      "email": "hadicoder@gmail.com",
+      "homepage": "https://elatel.ir",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": ">=7.0"
+  }
+}
